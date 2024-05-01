@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "date": "2023-08-31",
+        "hints": [
+            {
+                "imageName": "1.jpg",
+                "id": 1,
+                "text": ""
+            },
+            {
+                "imageName": "2.jpg",
+                "id": 2,
+                "text": "second hint"
+            },
+            {
+                "imageName": "3.png",
+                "id": 3,
+                "text": "third hint"
+            },
+            {
+                "imageName": "4.png",
+                "id": 4,
+                "text": "fourth hint"
+            },
+            {
+                "imageName": "5.jpg",
+                "id": 5,
+                "text": "fifth hint"
+            },
+            {
+                "imageName": "6.jpg",
+                "id": 6,
+                "text": "sixth hint"
+            }
+        ],
+        "answerId": 1
+    },
+    {
+        "id": 2,
+        "date": "2023-09-01",
+        "hints": [
+            {
+                "imageName": "1.jpg",
+                "id": 1,
+                "text": ""
+            },
+            {
+                "imageName": "2.jpg",
+                "id": 2,
+                "text": "second hint"
+            },
+            {
+                "imageName": "3.png",
+                "id": 3,
+                "text": "third hint"
+            },
+            {
+                "imageName": "4.png",
+                "id": 4,
+                "text": "fourth hint"
+            },
+            {
+                "imageName": "5.jpg",
+                "id": 5,
+                "text": "fifth hint"
+            },
+            {
+                "imageName": "6.jpg",
+                "id": 6,
+                "text": "sixth hint"
+            }
+        ],
+        "answerId": 1
+    }
+]
